@@ -14,3 +14,13 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+## Making a task list
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+```
+Remember, a task list starts with the syntax - [ ] and then the task list item. The formatting is specific!
+```
